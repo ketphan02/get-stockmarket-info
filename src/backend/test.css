@@ -1,0 +1,31 @@
+.ticker_table {
+    text-align: left;
+
+    padding: 20px;
+
+    border-collapse: collapse;
+
+    width: 900px;
+    height: auto;
+}
+
+td {
+    padding: 10px 30px;
+}
+
+td, th {
+
+    border: 1px white solid;
+}
+
+th, .tickers {
+    text-align: center;
+}
+
+.tickers {
+    font-weight: bold;
+}
+
+.names {
+    font-weight: 550;
+}
